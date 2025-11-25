@@ -1,5 +1,5 @@
 ### Ángel Morales Romero
-**Computer Engineer | MSc in Robotics & AI**
+**BS in Computer Science | MSc in Robotics & AI**
 
 Specialized in intelligent systems and software architecture. My work focuses on the intersection of robotics control, artificial intelligence, and efficient software development.
 
