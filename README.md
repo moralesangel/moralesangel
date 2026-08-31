@@ -48,7 +48,7 @@ Led development of **ADQG** (Autonomous Data Quality Guardian), a production ML 
 ## Location & Availability
  
 - 📍 Madrid, Spain (Originally from Cádiz)
-- ✈️ Open to relocation (considering Mallorca) / remote roles
+- ✈️ Open to relocation / remote roles
 - 🎯 Actively applying to: PhD positions in AI/ML across Europe, ML/research engineer roles
 ## Interests
  
